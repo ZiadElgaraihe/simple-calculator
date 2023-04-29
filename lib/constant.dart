@@ -1,0 +1,4 @@
+enum ButtonTypeEnum {
+  equalBtn,
+  operationsBtn,
+}
